@@ -1,5 +1,6 @@
 This is the code repository for my CSAI bachelor thesis 2024.
 
+This study explores the performance of Swin Transformer on the task of brain tumor classification on an MRI dataset. 
 
 The Swin_train_final notebook should be run on a machine with GPU to reduce training time.
 
